@@ -89,7 +89,7 @@ header .fa-bars{
     padding: .5rem 1.5rem;
     cursor: pointer;
     border: .1rem solid rgba(0, 0, 0, 3);
-    display: flex;
+    display: none;
 }
 .home{
     display: flex;
